@@ -1,0 +1,5 @@
+{
+  "name": "Elevator Management System",
+  "description": "A comprehensive web application for managing elevator maintenance, customers, contracts, invoicing, employees, and inventory for an independent elevator company.",
+  "requestFramePermissions": []
+}
